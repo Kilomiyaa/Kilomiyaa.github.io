@@ -3,7 +3,7 @@
     "subTitle":"疯狂与悠闲并存。",
     "faviconUrl":"https://cdn.jsdelivr.net/gh/Kilomiyaa/Kilomiyaa.github.io/static/favicon.png",
     "avatarUrl":"https://cdn.jsdelivr.net/gh/Kilomiyaa/Kilomiyaa.github.io/static/avatar.jpg",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/Kilomiyaa/Kilomiyaa.github.io/static/background.css'>",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/Kilomiyaa/Kilomiyaa.github.io/static/background_style.css'>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "startSite":"10/12/2024",
     "i18n":"CN",
